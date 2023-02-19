@@ -1,4 +1,4 @@
-# Facility-Gamemode
+# Facility-Gamemode-Wiki
 Wiki repository for the official Facility Gamemode wiki!
 
 Mod Repository: https://github.com/Sharp-Shark/Facility-Gamemode
